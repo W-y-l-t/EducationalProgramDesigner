@@ -1,12 +1,12 @@
-﻿using Entities.EducationalPrograms.EducationalProgramParts;
-using Entities.LaboratoryWork.LabParts;
-using Entities.LectureMaterials.LectureMaterialParts;
-using Entities.Person;
-using Entities.Subjects.SubjectParts;
-using Repository;
-using ResultTypes;
-using StringContent;
-using ValueObjects;
+using EducationalProgramDesigner.Entities.EducationalPrograms.EducationalProgramParts;
+using EducationalProgramDesigner.Entities.LaboratoryWork.LabParts;
+using EducationalProgramDesigner.Entities.LectureMaterials.LectureMaterialParts;
+using EducationalProgramDesigner.Entities.Person;
+using EducationalProgramDesigner.Entities.Subjects.SubjectParts;
+using EducationalProgramDesigner.Repository;
+using EducationalProgramDesigner.ResultTypes;
+using EducationalProgramDesigner.StringContent;
+using EducationalProgramDesigner.ValueObjects;
 using Xunit;
 
 namespace EducationalProgramDesignerTests;

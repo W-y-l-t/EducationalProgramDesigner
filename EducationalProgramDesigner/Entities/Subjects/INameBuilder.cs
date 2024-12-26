@@ -1,6 +1,6 @@
 ﻿using EducationalProgramDesigner.StringContent;
 
-namespace EducationalProgramDesigner.Subjects;
+namespace EducationalProgramDesigner.Entities.Subjects;
 
 public interface INameBuilder
 {

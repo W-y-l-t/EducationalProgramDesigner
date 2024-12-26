@@ -3,6 +3,7 @@
     <PropertyGroup>
         <RootNamespace>EducationalProgramDesigner</RootNamespace>
         <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
     </PropertyGroup>
 
 </Project>
